@@ -1,0 +1,18 @@
+
+body{
+ display: flex;
+ background-color: rgba(0, 0, 0, 0.5);
+ font: orange;
+}
+.me{
+  margin:auto;
+  }
+header{
+  background-color: rgba(200, 200,200, 0.5);
+}
+nav{
+  flex-wrap: wrap;
+  align-items: center;
+  flex-flow: column;
+  ve
+}
